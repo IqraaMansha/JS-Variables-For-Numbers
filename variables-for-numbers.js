@@ -1,6 +1,7 @@
 // #3 VARIABLES FOR NUMBERS
 
 
+
 // price = 250;
 // Discount = 50;
 // document.write(price - Discount);
